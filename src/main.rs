@@ -1,3 +1,5 @@
+mod gui;
+
 use sysinfo::System;
 use nvml_wrapper::Nvml;
 
