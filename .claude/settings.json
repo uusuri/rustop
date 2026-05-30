@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "command": "./set",
+            "type": "command"
+          }
+        ],
+        "matcher": "*"
+      }
+    ]
+  }
+}
